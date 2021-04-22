@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Marnie I Bloom";RSVP=TRUE:mailto:mbloom@mitre.org
+ATTENDEE;CN="Blake Bergstrom";RSVP=TRUE:mailto:bbergstrom@mitre.org
+ATTENDEE;CN="Dr. Elizabeth B Brokaw";RSVP=TRUE:mailto:ebrokaw@mitre.org
+ATTENDEE;CN="Dr. Eric J. Wagar";RSVP=TRUE:mailto:ewagar@mitre.org
+ATTENDEE;CN="Peter Mork";RSVP=TRUE:mailto:pmork@mitre.org
+ATTENDEE;CN="Ian D Bacon";RSVP=TRUE:mailto:ibacon@mitre.org
+CLASS:PUBLIC
+CREATED:20210422T180103Z
+DESCRIPTION:Facilitator: Marnie Bloom\nLogistics:  Blake Bergstrom & Ela Ma
+	cander	\nSpeaker	Wednesday\, April 28\, 2021 (4-5pm)	\nPeter Mork	Project:
+	 Childhood Obesity Data Initiative (CODI) Study 	\nIan Bacon	Project: Cent
+	er for Medicare & Medicaid Services (CMS) Telehealth Research Study	\nEliz
+	abeth Brokaw	Career: Biomedical Engineering	\nEric Wagar	Career: Biotechno
+	logy/US Army Veteran	\n\nSPEAKERS:  Please join 15 minutes before the star
+	t of the session (if possible)\n\nThank you for your interest in this even
+	t and for your support!\n\nEla \n\nhttps://mitre.zoomgov.com/j/16048380931
+	?pwd=OWgxUGJwczdrOXcvZ0FvZWRreGFDdz09\n\n
+DTEND;TZID=America/New_York:20210428T170000
+DTSTAMP:20210422T155754Z
+DTSTART;TZID=America/New_York:20210428T160000
+LAST-MODIFIED:20210422T180103Z
+LOCATION:https://mitre.zoomgov.com/j/1618067765?pwd=MmF2ZHNsdHFpUlNEQ2pMdkR
+	TQllsZz09
+ORGANIZER;CN="Ela Macander":mailto:dmacander@mitre.org
+PRIORITY:5
+SEQUENCE:2
+SUMMARY;LANGUAGE=en-us:MITREkids: Young Adult Series Session #1
+TRANSP:OPAQUE
+UID:20210420T182041Z-1618067765@fe80:0:0:0:4dc:2cff:fe3d:6af6eth0
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.13901.20366">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"><B><FONT COLOR=
+	"#000000" FACE="Calibri">Facilitator:</FONT></B></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#000000"
+	 FACE="Calibri">Marnie Bloom<BR>\n</FONT></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B><FONT COLOR="#000000" FACE
+	="Calibri">Logistics:</FONT></B></SPAN><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" FACE="Calibri">&
+	nbsp\; Blake Bergstrom &amp\; Ela Macander&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"><B><FONT COLOR="#000000" FACE="Calibri">Speaker Wednesday\, April 28\, 2
+	021 (4-5pm)&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></B></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#0000
+	00" FACE="Calibri">Peter Mork&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"
+	><B> <FONT COLOR="#000000" FACE="Calibri">Project:</FONT></B></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COL
+	OR="#000000" FACE="Calibri"></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#000000" FACE="Calibr
+	i">Childhood Obesity Data Initiative (CODI) Study</FONT></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> &nbsp\;&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" FACE="Calibri">Ian Bacon
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B> <FONT COLOR="#000
+	000" FACE="Calibri">Project:</FONT></B></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" FACE="Cal
+	ibri"> C</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN>
+	<SPAN LANG="en-us"><FONT COLOR="#000000" FACE="Calibri">enter for Medicare
+	 &amp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"> <FONT COLOR="#000000" FACE="Calibri">M</FONT></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT 
+	COLOR="#000000" FACE="Calibri">edicaid</FONT></SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"> <FONT COLOR="#000000" FA
+	CE="Calibri">S</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><
+	/SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" FACE="Calibri">ervices (CMS
+	)</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-us"><FONT COLOR="#000000" FACE="Calibri"> Telehealth Research Stud
+	y&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></S
+	PAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLOR="#000000" FAC
+	E="Calibri">Elizabeth Brokaw&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><B> <FONT COLOR="#000000" FACE="Calibri">Career:</FONT></B><
+	/SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-u
+	s"> <FONT COLOR="#000000" FACE="Calibri">Biomedical Engineering</FONT></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	<B>&nbsp\;</B></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>
+	\n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"><FONT COLOR="#000000" FACE="Calibri">Eric Wagar&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><
+	/SPAN><SPAN LANG="en-us"><B> <FONT COLOR="#000000" FACE="Calibri">Career:<
+	/FONT></B></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><FONT COLOR="#000000" FACE="Calibri"> Biotechnology/US Army 
+	Vete</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPA
+	N LANG="en-us"><FONT COLOR="#000000" FACE="Calibri">r</FONT></SPAN><SPAN L
+	ANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT COLO
+	R="#000000" FACE="Calibri">an&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="e
+	n-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><SP
+	AN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN
+	><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><B><FONT 
+	FACE="Calibri">SPEAKER</FONT></B></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"><B><FONT FACE="Calibri">S:</FONT></B>
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"><FONT FACE="Calibri">&nbsp\; Please join 15 minutes before the start o
+	f the session (if possible)</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en
+	-us"><FONT FACE="Calibri">Thank you for your interest in this event and fo
+	r your support!</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us"><FONT F
+	ACE="Calibri">Ela</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-us">
+	</SPAN><A HREF="https://mitre.zoomgov.com/j/16048380931?pwd=OWgxUGJwczdrOX
+	cvZ0FvZWRreGFDdz09"><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"><U><FONT COLOR="#0563C1" FACE="Calibri">https://mitre.zoo
+	mgov.com/j/16048380931?pwd=OWgxUGJwczdrOXcvZ0FvZWRreGFDdz09</FONT></U></SP
+	AN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20210422T155754Z
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
